@@ -1,5 +1,5 @@
 ﻿'''
-Author : Gassim Salah Eddine
+Author : Gassim Salah-Eddine
 
 Description : This script look for a specific virtual machine and extract all the related events.
               The events type can be one of the following: Reboot, Shutdown or Standby.
