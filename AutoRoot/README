@@ -1,8 +1,6 @@
 AutoRoot - Automatically reset the root password
 
-AutoRoot will scan for any logical volume containing the word root or for block devices starting from /dev/sda1.../dev/sda10, 
-/dev/sdb1.../dev/sdb10, /dev/sdc1.../dev/sdc10, it will then try to mount the volume and check for the password file, if found, 
-it will change the root password to: vNugget.com
+AutoRoot will scan for any logical volume containing the word root or for block devices starting from /dev/sda1.../dev/sda10, /dev/sdb1.../dev/sdb10, /dev/sdc1.../dev/sdc10, it will then try to mount the volume and check for the password file, if found, it will change the root password to: vNugget.com
 
 Requirement:
 ============
