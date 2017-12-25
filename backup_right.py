@@ -2,7 +2,7 @@
 
 # This script can be used to backup & restore a directory tree permission until a certain specified depth level
 # Author : Gassim Salah-eddine
-# http://vnugget.com
+# http://vnugget.com/python/script-backup-restore-directory-permissions-linux-machines/
 #
 
 import os
