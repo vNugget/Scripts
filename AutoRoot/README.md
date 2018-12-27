@@ -15,7 +15,7 @@ and that's it!
 
 ##More info:
 
-http://vnugget.com/python/autoroot-automatically-reset-the-root-password-on-linux-machines
+https://vnugget.com/python/autoroot-automatically-reset-the-root-password-on-linux-machines
 
 ##Demo
 
