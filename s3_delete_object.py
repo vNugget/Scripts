@@ -3,7 +3,8 @@ import boto3
 s3_client = boto3.client('s3')
 
 def delete_file(bucket_name, file_name):
-    obj = s3_client.delete_object(Bucket=bucket_name, Key=file_name)
+    response = s3_client.delete_object(Bucket=bucket_name, Key=file_name)
+    #print(response)
 
 def lambda_handler(event, context):
     for record in event['Records']:
